@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkismir_copy=self.webpackChunkismir_copy||[]).push([[380],{9567:function(e,c,n){n.r(c);var r=n(7294),s=n(4185);c.default=function(){return r.createElement("div",{className:"bg-[#E9ECEF] h-screen"},r.createElement(s.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-programs-index-js-b36148d5ebcb18bf5559.js.map
