@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-diversity-index-js-309d1561fb933278a783.js","mappings":"kIAQA,UANc,WACZ,OACE,mCAEH,C","sources":["webpack://ismir-copy/./src/pages/diversity/index.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst index = () => {\r\n  return (\r\n    <div>index</div>\r\n  )\r\n}\r\n\r\nexport default index"],"names":[],"sourceRoot":""}

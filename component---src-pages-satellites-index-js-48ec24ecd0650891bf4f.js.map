@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-satellites-index-js-48ec24ecd0650891bf4f.js","mappings":"iIAQA,UANc,WACZ,OACE,mCAEH,C","sources":["webpack://ismir-copy/./src/pages/satellites/index.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst index = () => {\r\n  return (\r\n    <div>index</div>\r\n  )\r\n}\r\n\r\nexport default index"],"names":[],"sourceRoot":""}
